@@ -2,7 +2,7 @@
 ## AI Study #2 Deep Learning NLP
 
 ### *참고 강의 : **inflearn** 예제로 배우는 딥러닝 자연어 처리 입문 NLP with TensorFlow - RNN부터 BERT까지*
-2022/7/ ~
+2022/7/15 ~
 
     Section 2. 자연어 처리란?
     Section 3. 자연어 처리를 위한 기초 지식
