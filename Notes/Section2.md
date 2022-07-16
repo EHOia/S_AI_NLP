@@ -1,4 +1,4 @@
-# Section.2 자연어 처리란?
+# Section 2. 자연어 처리란?
 
 ## 자연어 처리 응용 문제영역
 - Machine Translation
