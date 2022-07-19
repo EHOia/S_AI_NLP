@@ -26,4 +26,4 @@ P(the | its water is so transparent that)<br/>
 다음 단어가 올 확률은 해당 단어 조합이 등장한 횟수(Count-C-)에 기반해서 계산
 
 ### Count에 기반한 N-Gram 언어 모델 실습
-```N-gram_example.ipynb```
+[```N-gram_example.ipynb```](https://github.com/EHOia/S_AI_NLP/blob/main/N-gram_example.ipynb)
