@@ -38,6 +38,6 @@
 - MLE는 머신러닝과 자연어처리 분야에 광범위하게 사용됨
 
 ## NLTK 라이브러리 & NLTK를 이용한 토크나이징
-실습 ```자연어처리_기초_토크나이징과_원핫인코딩.ipynb```
+실습 [```자연어처리_기초_토크나이징과_원핫인코딩.ipynb```](https://github.com/EHOia/S_AI_NLP/blob/main/자연어처리_기초_토크나이징과_원핫인코딩.ipynb)
 ## 자연어 처리를 위해 학습해야 하는 Python 라이브러리
 ### Pandas, Numpy, HuggingFace
